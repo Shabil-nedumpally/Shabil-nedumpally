@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Shabil Nedumpally</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabil-nedumpally&label=Profile%20views&color=0e75b6&style=flat" alt="shabil-nedumpally" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabil-nedumpally" alt="shabil-nedumpally" /></a> </p>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wfierpllnyihburdz4rv3fqnrvhwtrvx1c5f003m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shabil-nedumpally">
