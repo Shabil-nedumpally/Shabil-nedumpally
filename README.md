@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shabil Nedumpally</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabil-nedumpally" alt="shabil-nedumpally" /></a> </p>
+
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wfierpllnyihburdz4rv3fqnrvhwtrvx1c5f003m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shabil-nedumpally">
 
 - 🌱 I’m currently learning **Diploma in computer Engineering**
-
-- 📝 I regularly write articles on [t.me/zerodaysprogramming](t.me/zerodaysprogramming)
 
 - 💬 Ask me about **react**
 
@@ -29,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabil-nedumpally&show_icons=true&locale=en&layout=compact" alt="shabil-nedumpally" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabil-nedumpally&show_icons=true&locale=en" alt="shabil-nedumpally" /></p>
+
